@@ -1,3 +1,3 @@
-# RPG-on-c-
+# RPG-on-c#
 
 My C# RPG game
